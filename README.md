@@ -54,5 +54,5 @@ that has been generated.
 
 Which file am i going to open?
 
-2.open AccountGenerator.exe
+2. Open AccountGenerator.exe
 
