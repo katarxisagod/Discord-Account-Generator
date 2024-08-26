@@ -35,22 +35,6 @@ If you dont have python installed, download python 3.7.6
 and make sure you click on the 'ADD TO PATH' option during
 the installation.
 
-### Run via Python
-1. install the required modules
-```
-pip install selenium
-pip install undetected-chromedriver
-pip install colorama
-pip install bs4
-pip install lxml
-pip install requests
-```
-
-2. To run the script..
-```
-python discordgenerator.py
-```
-
 #### Proxy support
 - If you want to use proxies, simply paste the proxies in config/proxies.txt.  If you want to stop using proxies, just remove all the proxies from the .txt file. The script automatically checks for proxies on startup. HTTP proxies are only supported as of now. If the proxies are not alive, the script will throw a WebDriver error.
 
@@ -67,4 +51,8 @@ Where can i found my generated accounts?
 
 1. It is located in the output folder. Open up login.txt to see the accounts 
 that has been generated.
+
+Which file am i going to open?
+
+2.open AccountGenerator.exe
 
